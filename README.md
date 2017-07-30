@@ -1,4 +1,4 @@
-# WORD CHAIN PUZZLE #
+## WORD CHAIN PUZZLE ##
 
 This class works with dictionary wordlist.txt and you may use wors : 
 
