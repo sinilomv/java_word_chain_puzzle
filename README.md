@@ -1,6 +1,6 @@
-## WORD CHAIN PUZZLE ##
+### WORD CHAIN PUZZLE ###
 
-This class works with dictionary wordlist.txt and you may use wors : 
+This class works with dictionary wordlist.txt and you may use words : 
 
 * lead => gold
 * ruby => code
